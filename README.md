@@ -1,8 +1,6 @@
 ps-vagabond
 ===========
 
-__NOTE__:  This project is still in beta and currently incomplete.
-
 Vagabond is a project to help more easily create and manage PeopleSoft PUM environments on your local machine by using [Vagrant](https://vagrantup.com).  Once downloaded and configured, running `vagrant up` from within your Vagabond instance will...
 
 * Download, configure, and start a base OEL or Windows (evaluation) Virtual Machine for use with the PUM
