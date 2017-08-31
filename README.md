@@ -90,7 +90,18 @@ ps-vagabond
  │   └── psft_customizations.yaml.example
  ├── dpks
  ├── scripts
- │   └── provision.sh
+ │   ├── banner.ps1
+ │   ├── provision-apply-ptp.ps1
+ │   ├── provision-bootstrap-ps.ps1
+ │   ├── provision-bootstrap-ptp.ps1
+ │   ├── provision-client.ps1
+ │   ├── provision-download.ps1
+ │   ├── provision-dpk-modules.ps1
+ │   ├── provision-puppet-apply.ps1
+ │   ├── provision-yaml.ps1
+ │   ├── provision.sh
+ │   ├── rubyGems.pem
+ │   └── vagabond.json
  ├── README.md
  └── Vagrantfile
 ```
